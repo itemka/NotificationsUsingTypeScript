@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NotificationsUsingTypeScript/static/css/main.0c930483.chunk.css",
+    "main.js": "/NotificationsUsingTypeScript/static/js/main.ad915b41.chunk.js",
+    "main.js.map": "/NotificationsUsingTypeScript/static/js/main.ad915b41.chunk.js.map",
+    "runtime-main.js": "/NotificationsUsingTypeScript/static/js/runtime-main.0f58611e.js",
+    "runtime-main.js.map": "/NotificationsUsingTypeScript/static/js/runtime-main.0f58611e.js.map",
+    "static/js/2.3b3d1d4c.chunk.js": "/NotificationsUsingTypeScript/static/js/2.3b3d1d4c.chunk.js",
+    "static/js/2.3b3d1d4c.chunk.js.map": "/NotificationsUsingTypeScript/static/js/2.3b3d1d4c.chunk.js.map",
+    "index.html": "/NotificationsUsingTypeScript/index.html",
+    "precache-manifest.89517b6a33a5c9dbbd1d031e0fc7450e.js": "/NotificationsUsingTypeScript/precache-manifest.89517b6a33a5c9dbbd1d031e0fc7450e.js",
+    "service-worker.js": "/NotificationsUsingTypeScript/service-worker.js",
+    "static/css/main.0c930483.chunk.css.map": "/NotificationsUsingTypeScript/static/css/main.0c930483.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f58611e.js",
+    "static/js/2.3b3d1d4c.chunk.js",
+    "static/css/main.0c930483.chunk.css",
+    "static/js/main.ad915b41.chunk.js"
+  ]
+}
